@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/appointment-bot/static/css/main.50e13e5e.css",
-    "main.js": "/appointment-bot/static/js/main.2cf03c15.js",
-    "index.html": "/appointment-bot/index.html",
-    "main.50e13e5e.css.map": "/appointment-bot/static/css/main.50e13e5e.css.map",
-    "main.2cf03c15.js.map": "/appointment-bot/static/js/main.2cf03c15.js.map"
+    "main.css": "/Appointment-Bot/static/css/main.50e13e5e.css",
+    "main.js": "/Appointment-Bot/static/js/main.2cf03c15.js",
+    "index.html": "/Appointment-Bot/index.html",
+    "main.50e13e5e.css.map": "/Appointment-Bot/static/css/main.50e13e5e.css.map",
+    "main.2cf03c15.js.map": "/Appointment-Bot/static/js/main.2cf03c15.js.map"
   },
   "entrypoints": [
     "static/css/main.50e13e5e.css",
